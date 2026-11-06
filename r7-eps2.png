@@ -1,0 +1,5 @@
+%!PS-Adobe-3.0 EPSF-3.0
+%%BoundingBox: 0 0 8 8
+/Helvetica findfont 6 scalefont setfont
+1 1 moveto (R7EPS) show
+showpage
